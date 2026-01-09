@@ -1,0 +1,19 @@
+Avatar_Girl_Sword_PlayerGirl_LumineTactical
+
+Credits : miHoYo, mhunter_45, llay11a, No_Tables, Berita Teyvat, Manashiku
+
+Producer : No_Tables
+Character Design : @mhunter_45
+3D Modelling : @llay11a
+Shader : Manashiku https://github.com/Manashiku/MMDGenshin/releases/tag/1.1.6
+MMD Mod : Berita Teyvat
+
+TERMS OF USE :
+1. Redistribution of original model = ✖
+2. Model modification/fixing = ✔ (character must stay the same)
+3. Taking assets, textures, physical values = ✖
+4. Distribution of modified model = ✖
+5. Use for R-18, ( sexual themes / fetish ), explicit gore / violence, slander / hate content / propaganda = ✖
+6. Use for commercial / profit = ✖
+7. Conversion to Blender, Metasequoia, Unity = ✔
+8. Conversion to VRChat, GMod, SFM, etc = ✔
