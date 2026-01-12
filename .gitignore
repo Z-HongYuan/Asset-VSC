@@ -1,2 +1,4 @@
 # 忽略SourceZIP文件夹内的压缩包
 0_SourceZip
+
+*.fbx
